@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputParser using delegates", "InputParser using delegates\InputParser using delegates.csproj", "{151A058F-E3AE-472D-A957-57A810C1FCB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{F4448372-F953-4494-853B-26522FAEBF56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{151A058F-E3AE-472D-A957-57A810C1FCB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151A058F-E3AE-472D-A957-57A810C1FCB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151A058F-E3AE-472D-A957-57A810C1FCB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151A058F-E3AE-472D-A957-57A810C1FCB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4448372-F953-4494-853B-26522FAEBF56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4448372-F953-4494-853B-26522FAEBF56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4448372-F953-4494-853B-26522FAEBF56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4448372-F953-4494-853B-26522FAEBF56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61DBF5D0-FE3C-4F31-8CFD-EB751A13CB73}
+	EndGlobalSection
+EndGlobal

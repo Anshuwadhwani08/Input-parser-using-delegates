@@ -1,0 +1,8 @@
+C:\Users\anshu\OneDrive\Desktop\.Net training\InputParser using delegates\InputParser using delegates\bin\Debug\InputParser using delegates.exe.config
+C:\Users\anshu\OneDrive\Desktop\.Net training\InputParser using delegates\InputParser using delegates\bin\Debug\InputParser using delegates.exe
+C:\Users\anshu\OneDrive\Desktop\.Net training\InputParser using delegates\InputParser using delegates\bin\Debug\InputParser using delegates.pdb
+C:\Users\anshu\OneDrive\Desktop\.Net training\InputParser using delegates\InputParser using delegates\obj\Debug\InputParser using delegates.csproj.AssemblyReference.cache
+C:\Users\anshu\OneDrive\Desktop\.Net training\InputParser using delegates\InputParser using delegates\obj\Debug\InputParser using delegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\anshu\OneDrive\Desktop\.Net training\InputParser using delegates\InputParser using delegates\obj\Debug\InputParser using delegates.csproj.CoreCompileInputs.cache
+C:\Users\anshu\OneDrive\Desktop\.Net training\InputParser using delegates\InputParser using delegates\obj\Debug\InputParser using delegates.exe
+C:\Users\anshu\OneDrive\Desktop\.Net training\InputParser using delegates\InputParser using delegates\obj\Debug\InputParser using delegates.pdb
