@@ -1,11 +1,11 @@
 using InputParser_using_delegates;
-using static InputParser_using_delegates.ConsoleReader;
+using static InputParser_using_delegates.Program;
 
 namespace TestProject1
 {
     public class InputParserTest
     {
-        ConsoleReader reader = new ConsoleReader();
+        Program reader = new Program();
         [Fact]
         public void only_numbers()
         {

@@ -6,3 +6,6 @@ C:\Users\anshu\OneDrive\Desktop\.Net training\InputParser using delegates\InputP
 C:\Users\anshu\OneDrive\Desktop\.Net training\InputParser using delegates\InputParser using delegates\obj\Debug\InputParser using delegates.csproj.CoreCompileInputs.cache
 C:\Users\anshu\OneDrive\Desktop\.Net training\InputParser using delegates\InputParser using delegates\obj\Debug\InputParser using delegates.exe
 C:\Users\anshu\OneDrive\Desktop\.Net training\InputParser using delegates\InputParser using delegates\obj\Debug\InputParser using delegates.pdb
+C:\Users\anshu\OneDrive\Desktop\.Net training\InputParser using delegates\InputParser using delegates\bin\Debug\ClassLibrary1.dll
+C:\Users\anshu\OneDrive\Desktop\.Net training\InputParser using delegates\InputParser using delegates\bin\Debug\ClassLibrary1.pdb
+C:\Users\anshu\OneDrive\Desktop\.Net training\InputParser using delegates\InputParser using delegates\obj\Debug\InputParser using delegates.csproj.CopyComplete

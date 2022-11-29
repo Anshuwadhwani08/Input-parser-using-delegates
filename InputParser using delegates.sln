@@ -5,7 +5,9 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputParser using delegates", "InputParser using delegates\InputParser using delegates.csproj", "{151A058F-E3AE-472D-A957-57A810C1FCB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{F4448372-F953-4494-853B-26522FAEBF56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject1", "TestProject1\TestProject1.csproj", "{F4448372-F953-4494-853B-26522FAEBF56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{9223A8CE-AF8E-4009-AF90-1BC2403D1918}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F4448372-F953-4494-853B-26522FAEBF56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4448372-F953-4494-853B-26522FAEBF56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4448372-F953-4494-853B-26522FAEBF56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9223A8CE-AF8E-4009-AF90-1BC2403D1918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9223A8CE-AF8E-4009-AF90-1BC2403D1918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9223A8CE-AF8E-4009-AF90-1BC2403D1918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9223A8CE-AF8E-4009-AF90-1BC2403D1918}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

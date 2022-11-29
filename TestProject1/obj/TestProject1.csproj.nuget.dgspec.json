@@ -4,6 +4,21 @@
     "C:\\Users\\anshu\\OneDrive\\Desktop\\.Net training\\InputParser using delegates\\TestProject1\\TestProject1.csproj": {}
   },
   "projects": {
+    "C:\\Users\\anshu\\OneDrive\\Desktop\\.Net training\\InputParser using delegates\\ClassLibrary1\\ClassLibrary1.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anshu\\OneDrive\\Desktop\\.Net training\\InputParser using delegates\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectName": "ClassLibrary1",
+        "projectPath": "C:\\Users\\anshu\\OneDrive\\Desktop\\.Net training\\InputParser using delegates\\ClassLibrary1\\ClassLibrary1.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\Users\\anshu\\OneDrive\\Desktop\\.Net training\\InputParser using delegates\\InputParser using delegates\\InputParser using delegates.csproj": {
       "restore": {
         "projectUniqueName": "C:\\Users\\anshu\\OneDrive\\Desktop\\.Net training\\InputParser using delegates\\InputParser using delegates\\InputParser using delegates.csproj",
@@ -11,7 +26,11 @@
         "projectPath": "C:\\Users\\anshu\\OneDrive\\Desktop\\.Net training\\InputParser using delegates\\InputParser using delegates\\InputParser using delegates.csproj",
         "frameworks": {
           "net472": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\anshu\\OneDrive\\Desktop\\.Net training\\InputParser using delegates\\ClassLibrary1\\ClassLibrary1.csproj": {
+                "projectPath": "C:\\Users\\anshu\\OneDrive\\Desktop\\.Net training\\InputParser using delegates\\ClassLibrary1\\ClassLibrary1.csproj"
+              }
+            }
           }
         }
       },
