@@ -9,19 +9,19 @@ namespace InputParser_using_delegates
 {
     public class Program
     {
-        public static void Run(string s,InputParserDelegate onWord, InputParserDelegate onNum, InputParserDelegate onJunk)
+        public void Run(string s,InputParserDelegate onWord, InputParserDelegate onNum, InputParserDelegate onJunk)
         {
             if (s.All(char.IsDigit))
             {
-                onNum();
+                onNum(s);
             }
             else if (s.All(char.IsLetterOrDigit))
             {
-                onWord();
+                onWord(s);
             }
             else if (!(s.All(char.IsLetterOrDigit)))
             {
-                onJunk();
+                onJunk(s);
             }
         }
        
@@ -29,10 +29,14 @@ namespace InputParser_using_delegates
         
         static void Main(string[] args)
         {
-
-            string input;
-            input = Console.ReadLine();
-            Run(input,ConsoleReader.Word,ConsoleReader.Num,ConsoleReader.Junk);
+            while(true)
+            {
+                Program program = new Program();
+                string input;
+                input = Console.ReadLine();
+                program.Run(input, ConsoleReader.Word, ConsoleReader.Num, ConsoleReader.Junk);
+            }
+            
 
 
         }

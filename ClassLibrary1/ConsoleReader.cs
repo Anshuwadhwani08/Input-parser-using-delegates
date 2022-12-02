@@ -6,27 +6,33 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
-    public delegate void InputParserDelegate();
+    public delegate string InputParserDelegate(string s);
     public class ConsoleReader
     {
         InputParserDelegate onWord = Word;
         InputParserDelegate onNum = Num;
         InputParserDelegate onJunk = Junk;
 
-        public static  void Word()
+        public static string Word(string op)
         {
-            Console.WriteLine("input string contains group of words : called onWord");
-            Console.ReadLine();
+             op = "input string contains group of words : called onWord";
+            Console.WriteLine(op);
+            return op;
+            
         }
-        public static void Num()
+        public static string Num(string op)
         {
-            Console.WriteLine("input string contains group of numbers : called onNum");
-            Console.ReadLine();
+            
+            op = "input string contains group of numbers: called onNum";
+            Console.WriteLine(op);
+            return op;
         }
-        public static void Junk()
+        public static string Junk(string op)
         {
-            Console.WriteLine("input string contains special characters : called onJunk");
-            Console.ReadLine();
+           
+            op = "input string contains special characters : called onJunk";
+            Console.WriteLine(op);
+            return op;
         }
     }
 }
